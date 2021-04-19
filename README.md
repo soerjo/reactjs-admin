@@ -1,8 +1,9 @@
 # Project React Admin
 
 membuat web admin dari reactjs dan menggunakan server localhost dari json server npm
-\ntutorial by: Traversy Media
-\nlink Youtube: https://www.youtube.com/watch?v=HRmdj-HpJyE
+
+tutorial by: Traversy Media
+link Youtube: https://www.youtube.com/watch?v=HRmdj-HpJyE
 
 ## yang di lakukan
 
